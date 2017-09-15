@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM hypriot/rpi-alpine
 
 ENV LC_ALL=en_GB.UTF-8
 
